@@ -1,7 +1,6 @@
 import os, sys
 from src.constants import *
 from src.config.configuration import *
-import os, sys
 import pandas as pd 
 import numpy as np 
 from sklearn.model_selection import train_test_split
