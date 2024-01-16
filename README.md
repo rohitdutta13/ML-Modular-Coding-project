@@ -1,5 +1,12 @@
 # ML-Modular-Coding-project
 
+This project comprises end-to-end modular coding involving the following steps:
+- Data Ingestion Pipeline
+- Data Transformation Pipeline
+- Model Training Pipeline
+- Batch Prediction Pipeline
+- Web Application
+
 1. Create new Environment
 
 conda create -p env python=3.11 -y
